@@ -13,6 +13,7 @@
     "resolveJsonModule": true,
     "isolatedModules": true,
     "jsx": "preserve",
+    //additional flags added by me
     "incremental": false,
     "noUncheckedIndexedAccess": true,
     "noImplicitAny": true,
